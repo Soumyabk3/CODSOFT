@@ -1,7 +1,7 @@
 
 # Movie Rating Prediction
 
-![Movie Rating Prediction]("https://github.com/Soumyabk3/CODSOFT/blob/main/Task2%20Codsoft/Images/Movie%20Rating%20Prediction.png)
+![Movie Rating Prediction](https://github.com/Soumyabk3/CODSOFT/blob/main/Task2%20Codsoft/Images/Movie%20Rating%20Prediction.png?raw=true)
 
 ## Problem Statement
 
