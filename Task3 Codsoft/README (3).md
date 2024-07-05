@@ -1,7 +1,7 @@
 
 # Iris Flower Classification
 
-![Iris Flower Classification](https://github.com/Soumyabk3/CODSOFT/blob/main/Task4%20Codsoft/Sales%20Prediction%20Using%20Python.png)
+![Iris Flower Classification](https://github.com/Soumyabk3/CODSOFT/blob/main/Task3%20Codsoft/Iris%20Flower%20Classification.png)
 
 ## Problem Statement
 
