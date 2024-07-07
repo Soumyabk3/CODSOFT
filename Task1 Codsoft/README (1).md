@@ -18,9 +18,6 @@ To run this project, you need to install the following Python libraries:
 - scikit-learn
 - IPython
 
-## Installation
-
-Install the necessary dependencies.
 
 ## For Example
 ## Installation
@@ -59,14 +56,6 @@ source venv/bin/activate
 
  
 
-4. *Generate the requirements.txt File**:
-
-```bash
-   pip freeze > requirements.txt
-```   
-  
- ---  
-
 ## Combined Script
 
 Here is the combined script for all steps:
@@ -89,8 +78,9 @@ Here is the combined script for all steps:
 ```
 
 ### For macOS/Linux:
-### source venv/bin/activate
-
+```bash
+source venv/bin/activate
+```
 #### Step 3: Install the required packages
 
 ```bash
@@ -98,22 +88,14 @@ Here is the combined script for all steps:
 ```
 
 ```bash
-  pip install numpy pandas matplotlib seaborn scikit-learn ipython
-```
-
-### Step 4: Generate the requirements.txt file
-```bash
-  pip freeze > requirements.txt
+  pip freeze
 ```
 
 
 
-###### Resulting requirements.txt
-
-### After running the above commands, your requirements.txt file will include entries similar to these (exact versions may vary):
+### After running the above commands, file will include entries similar to these (exact versions may vary):
 
 ```bash
- txt
 ipython==8.4.0
 matplotlib==3.5.2
 numpy==1.22.4
@@ -124,11 +106,12 @@ seaborn==0.11.2
 
 
 
-This file ensures that the same versions of these packages can be installed in any environment by running:
+This file ensures that the same versions of these packages can be installed in any environment by running
 
 
+### Loading Data sets:
 ```bash
-pip install -r requirements.txt
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
 ```
 
 
